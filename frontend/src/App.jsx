@@ -15,6 +15,7 @@ function App() {
 
       <h2>Message from Backend</h2>
       <h5>Hello commit3 for squash</h5>
+      <h5>Hello commit4 for squash</h5>
       <h3>{message}</h3>
     </div>
   );

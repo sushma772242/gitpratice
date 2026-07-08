@@ -14,7 +14,7 @@ function App() {
       <h1>Simple React + Node.js Project</h1>
 
       <h2>Message from Backend</h2>
-
+      <h5>Hello commit3 for squash</h5>
       <h3>{message}</h3>
     </div>
   );

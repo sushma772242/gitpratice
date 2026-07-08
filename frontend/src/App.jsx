@@ -18,6 +18,7 @@ function App() {
       <h5>Hello commit4 for squash</h5>
       <h5>Hello commit5 for squash</h5>
       <h5>Hello commit6 for squash</h5>
+      <h5>Hello commit7 for squash</h5>
       <h3>{message}</h3>
     </div>
   );
